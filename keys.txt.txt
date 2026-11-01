@@ -1,5 +1,12 @@
 {
-    "KEYS": {
-"10904222292": "misco67"
+  "users": {
+    "10904222292": {
+      "name": "PapiBenjaja",
+      "key": "A7F3-K9X2-M4P8"
+    },
+    "987654321": {
+      "name": "otro_usuario",
+      "key": "B2C5-N8Q1-R7T4"
     }
+  }
 }
