@@ -1,4 +1,3 @@
 # Leche Lock Whitelist
 # One UserId per line
 10904222292
-548892904
