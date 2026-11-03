@@ -1,3 +1,3 @@
-{
-  "10904222292": { "key": "penegrande" }
-}
+# Leche Lock Whitelist
+# One UserId per line
+10904222292
